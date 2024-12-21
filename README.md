@@ -3,16 +3,23 @@
 Introduction:
 
 Welcome to my Mini Project where I demonstrate the features of Dashlane, a powerful password manager! 🌟
+
 In this project, I explored Dashlane's capabilities for securely managing passwords and personal information. Dashlane makes it easy to stay safe online by generating strong passwords, autofilling login details, and monitoring for potential security breaches. Here’s a quick breakdown of what I did in the demo:
 
 Features:
 
 Master Password Setup: Created a Dashlane account and set up a Master Password for secure access.
+
 Password Management: Saved login details for various applications.
+
 Autofill Feature: Demonstrated Dashlane’s autofill feature for quick logins, and how to generate strong, automatic passwords.
+
 Secure Personal Information: Stored personal info such as addresses and payment details securely within Dashlane.
+
 Password Strength Check: Checked the strength of my passwords and updated weak ones.
+
 Dark Web Monitoring: Used Dashlane’s dark web monitoring feature to see if my email was exposed online.
+
 Monitor Security: Use Dashlane’s security features, like password strength checks and dark web monitoring, to keep your accounts safe.
 
 
